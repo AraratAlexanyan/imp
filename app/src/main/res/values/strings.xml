@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Private Browser</string>
+    <string name="input_url">Search or enter URL</string>
+    <string name="home_url">https://www.google.com</string>
+    <string name="nav_right">Go Forward</string>
+    <string name="nav_left">Go Back</string>
+    <string name="home">Home</string>
+    <string name="favicon">favicon</string>
+    <string name="refresh">refresh</string>
+
+
+</resources>
